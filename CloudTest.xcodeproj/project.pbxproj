@@ -25,7 +25,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		03E126692A7265BC00D6F181 /* CloudTest.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CloudTest.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		03E126692A7265BC00D6F181 /* CloudTest183765.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CloudTest183765.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		03E1266C2A7265BC00D6F181 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		03E1266E2A7265BC00D6F181 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		03E126702A7265BD00D6F181 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -65,7 +65,7 @@
 		03E1266A2A7265BC00D6F181 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				03E126692A7265BC00D6F181 /* CloudTest.app */,
+				03E126692A7265BC00D6F181 /* CloudTest183765.app */,
 				03E1267F2A7266AE00D6F181 /* CloudTestTests.xctest */,
 			);
 			name = Products;
@@ -94,9 +94,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		03E126682A7265BC00D6F181 /* CloudTest */ = {
+		03E126682A7265BC00D6F181 /* CloudTest183765 */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 03E126782A7265BD00D6F181 /* Build configuration list for PBXNativeTarget "CloudTest" */;
+			buildConfigurationList = 03E126782A7265BD00D6F181 /* Build configuration list for PBXNativeTarget "CloudTest183765" */;
 			buildPhases = (
 				03E126652A7265BC00D6F181 /* Sources */,
 				03E126662A7265BC00D6F181 /* Frameworks */,
@@ -106,9 +106,9 @@
 			);
 			dependencies = (
 			);
-			name = CloudTest;
+			name = CloudTest183765;
 			productName = CloudTest;
-			productReference = 03E126692A7265BC00D6F181 /* CloudTest.app */;
+			productReference = 03E126692A7265BC00D6F181 /* CloudTest183765.app */;
 			productType = "com.apple.product-type.application";
 		};
 		03E1267E2A7266AE00D6F181 /* CloudTestTests */ = {
@@ -161,7 +161,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				03E126682A7265BC00D6F181 /* CloudTest */,
+				03E126682A7265BC00D6F181 /* CloudTest183765 */,
 				03E1267E2A7266AE00D6F181 /* CloudTestTests */,
 			);
 		};
@@ -209,7 +209,7 @@
 /* Begin PBXTargetDependency section */
 		03E126842A7266AE00D6F181 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 03E126682A7265BC00D6F181 /* CloudTest */;
+			target = 03E126682A7265BC00D6F181 /* CloudTest183765 */;
 			targetProxy = 03E126832A7266AE00D6F181 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
@@ -349,7 +349,7 @@
 				COMBINE_HIDPI_IMAGES = YES;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = RZ2K829ZS8;
-				ENABLE_HARDENED_RUNTIME = YES;
+				ENABLE_HARDENED_RUNTIME = NO;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_NSHumanReadableCopyright = "";
 				INFOPLIST_KEY_NSMainStoryboardFile = Main;
@@ -376,7 +376,7 @@
 				COMBINE_HIDPI_IMAGES = YES;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = RZ2K829ZS8;
-				ENABLE_HARDENED_RUNTIME = YES;
+				ENABLE_HARDENED_RUNTIME = NO;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_NSHumanReadableCopyright = "";
 				INFOPLIST_KEY_NSMainStoryboardFile = Main;
@@ -439,7 +439,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		03E126782A7265BD00D6F181 /* Build configuration list for PBXNativeTarget "CloudTest" */ = {
+		03E126782A7265BD00D6F181 /* Build configuration list for PBXNativeTarget "CloudTest183765" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				03E126792A7265BD00D6F181 /* Debug */,
