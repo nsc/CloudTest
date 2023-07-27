@@ -1,0 +1,24 @@
+{
+  "configurations" : [
+    {
+      "id" : "7A261A45-269B-4DCE-B198-403B37F38AE5",
+      "name" : "Configuration 1",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+
+  },
+  "testTargets" : [
+    {
+      "target" : {
+        "containerPath" : "container:CloudTest.xcodeproj",
+        "identifier" : "03E1267E2A7266AE00D6F181",
+        "name" : "CloudTestTests"
+      }
+    }
+  ],
+  "version" : 1
+}
